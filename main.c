@@ -4,4 +4,5 @@
 int main(void) {
   char str[] = "hello";
   printf("%s length:%d", str, strlen(str));
+  return 0;
 }
